@@ -1,3 +1,3 @@
 # ML-projects
-Aiming to practice different projects for ML/Big Data /n
-practicing 1 hour daily 
+### Aiming to practice different projects for ML/Big Data
+### Practicing 1 hour daily 
